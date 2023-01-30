@@ -22,6 +22,7 @@ public class Main {
 		fi.close();
 		
 		
+		System.out.println("degisiklik yapildi");
 		System.out.println("bibib");
 		
 		
